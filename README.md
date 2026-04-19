@@ -1,6 +1,11 @@
 # 😊 Facial Emotions Detection System
 
 An AI-powered facial emotion recognition system that detects human emotions from facial expressions in real-time using computer vision and machine learning. This project can identify emotions such as happy, sad, angry, surprised, neutral, and more.
+**📸 Screenshots**
+![Home Page]((https://drive.google.com/file/d/1q-hVn0XAGqFFGKoL-z0QbSKXt_M0HpIi/view?usp=sharing))
+
+**🎬 Demo Video**
+[▶ Watch Demo Video]((https://drive.google.com/file/d/1veUWK-xcKhv4WQ7cX0hip9BZZtQ-aJoh/view?usp=sharing))
 
 
 ## 📌 Project Overview
